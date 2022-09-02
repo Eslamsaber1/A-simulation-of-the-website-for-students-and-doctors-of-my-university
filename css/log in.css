@@ -1,0 +1,151 @@
+.head1{
+font-size: 20px;
+box-shadow: 0 0 10px #ddd;   
+}
+.content{
+    background-color:#0073a5;
+    color: azure;
+    padding: 15px ;
+    text-align: end;
+    }
+    
+.modern1
+{
+    background-color:#009fe5;
+    padding: 5px;
+    margin-top: 3px; 
+}
+.modern2{
+margin-top: 50px;
+padding: 1.5mm;
+width: 120px;
+height: 120px;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style: none;
+    background-color: #0073a5;
+    color: azure;
+    padding: 10px 0;
+    margin: 0px;
+    text-align: center;
+  
+  
+}
+ul li
+{
+display: inline-block;
+}
+.li1{
+align-content: space-around;
+
+flex-wrap: wrap;
+}
+.username{
+
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+    color: #c02424;
+    padding: 0.60rem;
+}
+.password{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    padding: 0.60rem;
+}
+.label{
+    
+   margin-left: 40px;
+}
+.usre_password{
+   margin: 20px auto;
+   margin-top: 75px;
+   height: 360px;
+   width: 900px;
+   border: 1px solid rgba(0,0,0,.125);
+   
+}
+.modernname{
+    font-family: arvoregular,Arial,Helvetica,sans-serif;
+    color: black;
+    text-align: center;
+    width: auto;
+    height: 25px;
+    padding:  1.25rem;
+    font-weight: 400;   
+}
+.line{
+    width: auto;
+    height: 5px;
+    background-color:#0073a5 ;
+}
+.LOGIN{
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 90px;
+    height: 35px;
+    
+}
+.checkbox{
+    margin-left: 40px;
+}
+.button_guest{
+    margin-left: 150px;
+    height: 40px;
+}
+.modernname{
+    margin-top: auto;
+    background-color: rgba(0,0,0,.03);
+}
+.h2{
+    font-size: 28px;
+    margin-top: auto;
+}
+.INFO{
+    font-size: 16px;
+    color: var(--color_masala_approx);
+    line-height: 20px;
+    display: inline-block;
+    padding: 1.5mm;
+    width: 120px;
+    height: 120px;
+}
+.list{
+    list-style: none;
+}
+.contaner1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center; 
+    margin-bottom: 35px;  
+}
+.contact{
+    padding: 1.5mm;
+    width: 400px;
+    height: 120px;
+    
+}
+.footer{
+   
+   background-color: #ddd;
+    padding: 10px 0;
+   
+    text-align: center;
+}
+#info_a{
+    text-decoration: none;
+}
+#username-error,
+#password-error {
+  color: red;
+}
